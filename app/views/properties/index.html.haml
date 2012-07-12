@@ -1,1 +1,37 @@
-= @properties.inspect
+%h1 Listing properties
+
+%br
+
+%table.table.table-bordered
+  %thead
+    %tr
+      %th ID
+      %th Approx Sqft
+      %th Bathrooms
+      %th Bedrooms
+      %th City
+      %th Geo Lat
+      %th Geo Lon
+      %th List Price
+      %th Street Name
+      %th Street Number
+      %th Street Suffix
+      %th Unit Number
+      %th Year Built
+      %th Zip Code
+  %tbody
+    - @properties.each do |p|
+      %tr
+        %td= p.approx_sqft
+        %td= p.bathrooms
+        %td= p.bedrooms
+        %td= p.city
+        %td= p.geo_lat
+        %td= p.geo_lon
+        %td= p.list_price
+        %td= p.street_name
+        %td= p.street_number
+        %td= p.street_suffix
+        %td= p.unit_number
+        %td= p.year_built
+        %td= p.zip_code

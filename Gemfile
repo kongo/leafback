@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.3'
 gem 'mysql2'
 gem 'jquery-rails'
+gem 'kaminari'
 
 group :assets do
   gem 'therubyracer', :platform => :ruby
