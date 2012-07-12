@@ -11,6 +11,24 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 0) do
+ActiveRecord::Schema.define(:version => 20120712095721) do
+
+  create_table "properties", :force => true do |t|
+    t.integer  "street_number"
+    t.string   "street_name"
+    t.integer  "unit_number"
+    t.string   "street_suffix"
+    t.string   "city"
+    t.string   "zip_code"
+    t.float    "geo_lat"
+    t.float    "geo_lon"
+    t.float    "approx_sqft"
+    t.integer  "year_built"
+    t.integer  "bedrooms"
+    t.integer  "bathrooms"
+    t.float    "list_price"
+    t.datetime "created_at",    :null => false
+    t.datetime "updated_at",    :null => false
+  end
 
 end
