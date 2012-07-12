@@ -61,5 +61,9 @@ module Leafback
       generator.test_framework  :rspec, :fixture => false
       generator.stylesheets     false
     end
+
+    config.label_class = 'control-label'
+    config.form_class = 'simple_form form-horizontal'
+    config.autoload_paths += %W(#{config.root}/lib/extras)
   end
 end

@@ -1,5 +1,15 @@
 %h1 Listing properties
 
+-# = simple_form_for(Property.new, :html => {:class => 'form-horizontal' }) do |f|
+-#   = f.input :street_number
+-#   = f.input :street_name
+-#   = f.input :street_suffix
+-#   = f.input :city
+-#   = f.input :bathrooms
+-#   = f.input :bedrooms
+-#   = f.input :year_built
+-#   = f.button :wrapped, :cancel => properties_path
+
 %br
 
 = paginate @properties

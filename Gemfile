@@ -5,6 +5,7 @@ gem 'mysql2'
 gem 'jquery-rails'
 gem 'kaminari'
 gem 'backbone-on-rails'
+gem 'simple_form'
 
 group :assets do
   gem 'therubyracer', :platform => :ruby
