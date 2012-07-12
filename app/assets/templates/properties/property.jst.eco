@@ -1,0 +1,10 @@
+<td><%= @p.get("id") %></td>
+<td><%= @p.address() %></td>
+<td><%= @p.get("approx_sqft") %></td>
+<td><%= @p.get("bathrooms") %></td>
+<td><%= @p.get("bedrooms") %></td>
+<td><%= @p.get("geo_lat") %></td>
+<td><%= @p.get("geo_lon") %></td>
+<td><%= @p.get("list_price") %></td>
+<td><%= @p.get("year_built") %></td>
+<td><%= @p.get("zip_code") %></td>

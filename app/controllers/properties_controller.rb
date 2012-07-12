@@ -27,4 +27,12 @@ class PropertiesController < ApplicationController
     end
   end
 
+  def create
+    @property = Property.create params[:property]
+    respond_to do |format|
+      format.html { redirect_to property_path(@property) }
+      format.json { respond_with @property }
+    end
+  end
+
 end
