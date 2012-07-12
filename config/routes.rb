@@ -1,7 +1,7 @@
 Leafback::Application.routes.draw do
 
   resources :properties
-  root :to => "properties#index"
+  root to: "properties#index"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
