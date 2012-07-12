@@ -4,31 +4,32 @@
 
 = paginate @properties
 
-%table.table.table-bordered
-  %thead
-    %tr
-      %th ID
-      %th Address
-      %th Approx Sqft
-      %th Bathrooms
-      %th Bedrooms
-      %th Geo Lat
-      %th Geo Lon
-      %th List Price
-      %th Year Built
-      %th Zip Code
-  %tbody
-    - @properties.each do |p|
+#bb-container
+  %table.table.table-bordered
+    %thead
       %tr
-        %td= p.id
-        %td= p.address
-        %td= p.approx_sqft
-        %td= p.bathrooms
-        %td= p.bedrooms
-        %td= p.geo_lat
-        %td= p.geo_lon
-        %td= p.list_price
-        %td= p.year_built
-        %td= p.zip_code
+        %th ID
+        %th Address
+        %th Approx Sqft
+        %th Bathrooms
+        %th Bedrooms
+        %th Geo Lat
+        %th Geo Lon
+        %th List Price
+        %th Year Built
+        %th Zip Code
+    %tbody
+      - @properties.each do |p|
+        %tr
+          %td= p.id
+          %td= p.address
+          %td= p.approx_sqft
+          %td= p.bathrooms
+          %td= p.bedrooms
+          %td= p.geo_lat
+          %td= p.geo_lon
+          %td= p.list_price
+          %td= p.year_built
+          %td= p.zip_code
 
-= paginate @properties
+  = paginate @properties

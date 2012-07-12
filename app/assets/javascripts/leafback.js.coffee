@@ -3,7 +3,9 @@ window.Leafback =
   Collections: {}
   Views: {}
   Routers: {}
-  init: -> alert 'Hello from Backbone!'
+  init: ->
+    new Leafback.Routers.Properties()
+    Backbone.history.start()
 
 $(document).ready ->
   Leafback.init()
