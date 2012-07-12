@@ -1,0 +1,2601 @@
+properties:
+  - city: Phoenix
+    geo_lon: -112.024795532227
+    bedrooms: 3.0
+    zip_code: "85024"
+    approx_sqft: 2097.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 2.0
+    street_number: "2552"
+    street_name: Quiet Hollow
+    geo_lat: 33.7091484069824
+    list_price: 210000.0
+    year_built: 2008
+  - city: Show Low
+    geo_lon: -110.079971313477
+    bedrooms: 3.0
+    zip_code: "85901"
+    approx_sqft: 1575.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "3461"
+    street_name: Country Club
+    geo_lat: 34.2530860900879
+    list_price: 239900.0
+    year_built: 2001
+  - city: Show Low
+    geo_lon: -110.073432922363
+    bedrooms: 4.0
+    zip_code: "85901"
+    approx_sqft: 1822.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "1120"
+    street_name: Needles Creek
+    geo_lat: 34.2595558166504
+    list_price: 275000.0
+    year_built: 2003
+  - city: Queen Creek
+    geo_lon: -111.614112854004
+    bedrooms: 4.0
+    zip_code: "85142"
+    approx_sqft: 
+    street_suffix: Road
+    unit_number:
+    bathrooms: 2.5
+    street_number: "4487"
+    street_name: Crescent
+    geo_lat: 33.1798286437988
+    list_price: 154900.0
+    year_built: 2012
+  - city: Florence Junction
+    geo_lon: -111.272331237793
+    bedrooms: 4.0
+    zip_code: "85219"
+    approx_sqft: 2229.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 3.0
+    street_number: "6773"
+    street_name: Refugee
+    geo_lat: 33.4390487670898
+    list_price: 69000.0
+    year_built: 2006
+  - city: Florence
+    geo_lon: -111.496849060059
+    bedrooms: 4.0
+    zip_code: "85232"
+    approx_sqft: 
+    street_suffix: Way
+    unit_number:
+    bathrooms: 3.0
+    street_number: "23634"
+    street_name: Wilderness
+    geo_lat: 33.0937271118164
+    list_price: 71000.0
+    year_built: 2006
+  - city: Phoenix
+    geo_lon: -112.163681030273
+    bedrooms: 4.0
+    zip_code: "85043"
+    approx_sqft: 2600.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 3.0
+    street_number: "6710"
+    street_name: "48"
+    geo_lat: 33.3854866027832
+    list_price: 89900.0
+    year_built: 2006
+  - city: Mesa
+    geo_lon: -111.709106445312
+    bedrooms: 3.0
+    zip_code: "85206"
+    approx_sqft: 1255.0
+    street_suffix: Street
+    unit_number: "104"
+    bathrooms: 2.0
+    street_number: "125"
+    street_name: "56"
+    geo_lat: 33.4133567810059
+    list_price: 72500.0
+    year_built: 1999
+  - city: Pinetop
+    geo_lon: -109.878807067871
+    bedrooms: 3.0
+    zip_code: "85935"
+    approx_sqft: 1594.0
+    street_suffix: Circle
+    unit_number:
+    bathrooms: 2.0
+    street_number: "7101"
+    street_name: Moon Creek
+    geo_lat: 34.1173553466797
+    list_price: 229000.0
+    year_built: 1984
+  - city: Show Low
+    geo_lon: -110.03150177002
+    bedrooms: 2.0
+    zip_code: "85901"
+    approx_sqft: 1259.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 1.5
+    street_number: "4201"
+    street_name: ANTELOPE
+    geo_lat: 34.211498260498
+    list_price: 129900.0
+    year_built: 1983
+  - city: Phoenix
+    geo_lon: -112.115982055664
+    bedrooms: 3.0
+    zip_code: "85051"
+    approx_sqft: 1114.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "7114"
+    street_name: "26"
+    geo_lat: 33.5407371520996
+    list_price: 92500.0
+    year_built: 1949
+  - city: Phoenix
+    geo_lon: -112.164436340332
+    bedrooms: 4.0
+    zip_code: "85031"
+    approx_sqft: 2048.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.75
+    street_number: "4911"
+    street_name: AVALON
+    geo_lat: 33.4833183288574
+    list_price: 118000.0
+    year_built: 1958
+  - city: Phoenix
+    geo_lon: -112.163047790527
+    bedrooms: 3.0
+    zip_code: "85031"
+    approx_sqft: 1140.0
+    street_suffix: Avenue
+    unit_number: "0"
+    bathrooms: 1.75
+    street_number: "4112"
+    street_name: 48TH
+    geo_lat: 33.4954032897949
+    list_price: 109900.0
+    year_built: 1954
+  - city: Phoenix
+    geo_lon: -112.147132873535
+    bedrooms: 3.0
+    zip_code: "85009"
+    approx_sqft: 988.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "2309"
+    street_name: 41ST
+    geo_lat: 33.4736213684082
+    list_price: 115000.0
+    year_built: 1958
+  - city: Phoenix
+    geo_lon: -112.031585693359
+    bedrooms: 3.0
+    zip_code: "85042"
+    approx_sqft: 1306.0
+    street_suffix: Place
+    unit_number:
+    bathrooms: 1.0
+    street_number: "6011"
+    street_name: 23RD
+    geo_lat: 33.3925933837891
+    list_price: 117900.0
+    year_built: 1960
+  - city: Mesa
+    geo_lon: -111.825286865234
+    bedrooms: 3.0
+    zip_code: "85201"
+    approx_sqft: 1578.0
+    street_suffix: Circle
+    unit_number:
+    bathrooms: 1.75
+    street_number: "1848"
+    street_name: Wilbur
+    geo_lat: 33.4491882324219
+    list_price: 179000.0
+    year_built: 1976
+  - city: Glendale
+    geo_lon: -112.139472961426
+    bedrooms: 3.0
+    zip_code: "85308"
+    approx_sqft: 1490.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "3707"
+    street_name: Villa Theresa
+    geo_lat: 33.6538467407227
+    list_price: 170000.0
+    year_built: 1984
+  - city: Phoenix
+    geo_lon: -112.076965332031
+    bedrooms: 3.0
+    zip_code: "85027"
+    approx_sqft: 1472.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 1.75
+    street_number: "222"
+    street_name: Taro
+    geo_lat: 33.659309387207
+    list_price: 179900.0
+    year_built: 1983
+  - city: Flagstaff
+    geo_lon: -111.651306152344
+    bedrooms: 3.0
+    zip_code: "86001"
+    approx_sqft: 
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "1680"
+    street_name: Stevanna Way
+    geo_lat: 35.1982002258301
+    list_price: 325000.0
+    year_built: 1968
+  - city: Flagstaff
+    geo_lon: -111.607040405273
+    bedrooms: 3.0
+    zip_code: "86004"
+    approx_sqft: 
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.75
+    street_number: "2480"
+    street_name: Linda Vista
+    geo_lat: 35.2216567993164
+    list_price: 260000.0
+    year_built: 1977
+  - city: Flagstaff
+    geo_lon: -111.677146911621
+    bedrooms: 3.0
+    zip_code: "86001"
+    approx_sqft: 
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.5
+    street_number: "1742"
+    street_name: Saratoga
+    geo_lat: 35.1800804138184
+    list_price: 255000.0
+    year_built: 2002
+  - city: Tempe
+    geo_lon: -111.887397766113
+    bedrooms: 3.0
+    zip_code: "85282"
+    approx_sqft: 1288.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.75
+    street_number: "2410"
+    street_name: MANHATTON
+    geo_lat: 33.3891792297363
+    list_price: 174900.0
+    year_built: 1971
+  - city: Phoenix
+    geo_lon: -112.056861877441
+    bedrooms: 3.0
+    zip_code: "85042"
+    approx_sqft: 1361.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "6035"
+    street_name: 11th
+    geo_lat: 33.3907661437988
+    list_price: 110000.0
+    year_built: 1965
+  - city: Glendale
+    geo_lon: -112.175857543945
+    bedrooms: 4.0
+    zip_code: "85301"
+    approx_sqft: 1100.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 3.0
+    street_number: "6629"
+    street_name: "54"
+    geo_lat: 33.5341682434082
+    list_price: 125000.0
+    year_built: 1925
+  - city: Phoenix
+    geo_lon: -111.999603271484
+    bedrooms: 3.0
+    zip_code: "85032"
+    approx_sqft: 1614.0
+    street_suffix: ""
+    unit_number:
+    bathrooms: 2.0
+    street_number: "12802"
+    street_name: "38"
+    geo_lat: 33.6025695800781
+    list_price: 272900.0
+    year_built: 1979
+  - city: Glendale
+    geo_lon: -112.213111877441
+    bedrooms: 3.0
+    zip_code: "85303"
+    approx_sqft: 1248.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.75
+    street_number: "7126"
+    street_name: PASADENA
+    geo_lat: 33.5098342895508
+    list_price: 151500.0
+    year_built: 1978
+  - city: Chandler
+    geo_lon: -111.868911743164
+    bedrooms: 3.0
+    zip_code: "85224"
+    approx_sqft: 1589.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "3116"
+    street_name: LONGMORE
+    geo_lat: 33.3523101806641
+    list_price: 160000.0
+    year_built: 1984
+  - city: Phoenix
+    geo_lon: -112.078979492188
+    bedrooms: 3.0
+    zip_code: "85041"
+    approx_sqft: 1200.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "6822"
+    street_name: 4TH
+    geo_lat: 33.3841361999512
+    list_price: 145000.0
+    year_built: 1954
+  - city: Scottsdale
+    geo_lon: -111.917045593262
+    bedrooms: 1.0
+    zip_code: "85251"
+    approx_sqft: 752.0
+    street_suffix: Road
+    unit_number: A321
+    bathrooms: 1.0
+    street_number: "7625"
+    street_name: CAMELBACK
+    geo_lat: 33.5010223388672
+    list_price: 105000.0
+    year_built: 1971
+  - city: Phoenix
+    geo_lon: -112.005920410156
+    bedrooms: 3.0
+    zip_code: "85008"
+    approx_sqft: 1498.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 2.0
+    street_number: "3509"
+    street_name: Coronado
+    geo_lat: 33.4677200317383
+    list_price: 174900.0
+    year_built: 1976
+  - city: Phoenix
+    geo_lon: -111.994026184082
+    bedrooms: 4.0
+    zip_code: "85032"
+    approx_sqft: 2102.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "4036"
+    street_name: CAPITAN DREYFUS
+    geo_lat: 33.6053733825684
+    list_price: 225000.0
+    year_built: 1977
+  - city: Phoenix
+    geo_lon: -111.995277404785
+    bedrooms: 3.0
+    zip_code: "85042"
+    approx_sqft: 1500.0
+    street_suffix: Place
+    unit_number:
+    bathrooms: 1.75
+    street_number: "6838"
+    street_name: 40TH
+    geo_lat: 33.383903503418
+    list_price: 150000.0
+    year_built: 1976
+  - city: Phoenix
+    geo_lon: -112.111114501953
+    bedrooms: 3.0
+    zip_code: "85015"
+    approx_sqft: 1050.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "3515"
+    street_name: 24TH
+    geo_lat: 33.4895172119141
+    list_price: 133500.0
+    year_built: 1953
+  - city: Casa Grande
+    geo_lon: -111.648475646973
+    bedrooms: 3.0
+    zip_code: "85222"
+    approx_sqft: 1728.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "6231"
+    street_name: LAKESHORE
+    geo_lat: 32.935863494873
+    list_price: 89900.0
+    year_built: 1994
+  - city: Mesa
+    geo_lon: -111.82177734375
+    bedrooms: 3.0
+    zip_code: "85203"
+    approx_sqft: 1241.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.75
+    street_number: "415"
+    street_name: Glencove
+    geo_lat: 33.4385032653809
+    list_price: 194000.0
+    year_built: 1981
+  - city: Apache Junction
+    geo_lon: -111.555793762207
+    bedrooms: 3.0
+    zip_code: "85220"
+    approx_sqft: 1484.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.75
+    street_number: "907"
+    street_name: 3rd
+    geo_lat: 33.4118614196777
+    list_price: 128000.0
+    year_built: 1973
+  - city: Chino Valley
+    geo_lon: -112.450462341309
+    bedrooms: 3.0
+    zip_code: "86323"
+    approx_sqft: 1218.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "1574"
+    street_name: PIUTE
+    geo_lat: 34.7226486206055
+    list_price: 85000.0
+    year_built: 1974
+  - city: Phoenix
+    geo_lon: -112.095497131348
+    bedrooms: 3.0
+    zip_code: "85015"
+    approx_sqft: 1973.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.75
+    street_number: "1645"
+    street_name: CLARENDON
+    geo_lat: 33.4911041259766
+    list_price: 239500.0
+    year_built: 1951
+  - city: Cave Creek
+    geo_lon: -111.940353393555
+    bedrooms: 3.0
+    zip_code: "85331"
+    approx_sqft: 3395.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 3.0
+    street_number: "6503"
+    street_name: Willow Springs
+    geo_lat: 33.8591804504395
+    list_price: 1475000.0
+    year_built: 2000
+  - city: Goodyear
+    geo_lon: -112.400085449219
+    bedrooms: 3.0
+    zip_code: "85338"
+    approx_sqft: 1917.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "15834"
+    street_name: DURANGO
+    geo_lat: 33.426830291748
+    list_price: 225000.0
+    year_built: 1996
+  - city: Tempe
+    geo_lon: -111.919441223145
+    bedrooms: 3.0
+    zip_code: "85283"
+    approx_sqft: 2140.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.5
+    street_number: "1208"
+    street_name: Libra
+    geo_lat: 33.3655967712402
+    list_price: 265000.0
+    year_built: 1978
+  - city: Phoenix
+    geo_lon: -112.068046569824
+    bedrooms: 1.0
+    zip_code: "85012"
+    approx_sqft: 754.0
+    street_suffix: Road
+    unit_number: D-406
+    bathrooms: 1.0
+    street_number: "351"
+    street_name: Thomas
+    geo_lat: 33.4789199829102
+    list_price: 53000.0
+    year_built: 1960
+  - city: Carefree
+    geo_lon: -111.920181274414
+    bedrooms: 2.0
+    zip_code: "85377"
+    approx_sqft: 
+    street_suffix: Drive
+    unit_number: "224"
+    bathrooms: 2.0
+    street_number: "7402"
+    street_name: Carefree
+    geo_lat: 33.8247375488281
+    list_price: 175000.0
+    year_built: 1976
+  - city: Phoenix
+    geo_lon: -112.079109191895
+    bedrooms: 3.0
+    zip_code: "85003"
+    approx_sqft: 1070.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "905"
+    street_name: 4TH
+    geo_lat: 33.4388313293457
+    list_price: 51900.0
+    year_built: 1953
+  - city: Avondale
+    geo_lon: -112.314186096191
+    bedrooms: 4.0
+    zip_code: "85323"
+    approx_sqft: 3691.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.5
+    street_number: "11876"
+    street_name: Tonto
+    geo_lat: 33.4380378723145
+    list_price: 359900.0
+    year_built: 2005
+  - city: Buckeye
+    geo_lon: -112.634262084961
+    bedrooms: 4.0
+    zip_code: "85326"
+    approx_sqft: 2089.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 3.0
+    street_number: "10620"
+    street_name: 271ST
+    geo_lat: 33.3498458862305
+    list_price: 276000.0
+    year_built: 2005
+  - city: Goodyear
+    geo_lon: -112.355262756348
+    bedrooms: 4.0
+    zip_code: "85338"
+    approx_sqft: 1526.0
+    street_suffix: ""
+    unit_number:
+    bathrooms: 2.0
+    street_number: "208"
+    street_name: LOMA LINDA BLVD
+    geo_lat: 33.4431838989258
+    list_price: 153000.0
+    year_built: 1955
+  - city: Glendale
+    geo_lon: -112.191909790039
+    bedrooms: 5.0
+    zip_code: "85301"
+    approx_sqft: 2358.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.75
+    street_number: "5032"
+    street_name: "61"
+    geo_lat: 33.5108413696289
+    list_price: 155000.0
+    year_built: 1959
+  - city: Phoenix
+    geo_lon: -112.030052185059
+    bedrooms: 3.0
+    zip_code: "85032"
+    approx_sqft: 
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "2407"
+    street_name: SYLVIA
+    geo_lat: 33.5981330871582
+    list_price: 205000.0
+    year_built: 1969
+  - city: Mesa
+    geo_lon: -111.676322937012
+    bedrooms: 3.0
+    zip_code: "85207"
+    approx_sqft: 2148.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.5
+    street_number: "7144"
+    street_name: INDIGO
+    geo_lat: 33.4456062316895
+    list_price: 449000.0
+    year_built: 1995
+  - city: Peoria
+    geo_lon: -112.253211975098
+    bedrooms: 3.0
+    zip_code: "85345"
+    approx_sqft: 1541.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "9008"
+    street_name: CAROL
+    geo_lat: 33.5709075927734
+    list_price: 192900.0
+    year_built: 1985
+  - city: Mesa
+    geo_lon: -111.863945007324
+    bedrooms: 2.0
+    zip_code: "85201"
+    approx_sqft: 1287.0
+    street_suffix: ""
+    unit_number:
+    bathrooms: 1.0
+    street_number: "306"
+    street_name: HENKEL
+    geo_lat: 33.4205207824707
+    list_price: 138500.0
+    year_built: 1949
+  - city: Phoenix
+    geo_lon: -112.041091918945
+    bedrooms: 3.0
+    zip_code: "85040"
+    approx_sqft: 909.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "4436"
+    street_name: "19"
+    geo_lat: 33.4054145812988
+    list_price: 101700.0
+    year_built: 1947
+  - city: Phoenix
+    geo_lon: -112.095275878906
+    bedrooms: 2.0
+    zip_code: "85007"
+    approx_sqft: 1469.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "1633"
+    street_name: WILSHIRE
+    geo_lat: 33.4756851196289
+    list_price: 349000.0
+    year_built: 1944
+  - city: Gilbert
+    geo_lon: -111.747955322266
+    bedrooms: 4.0
+    zip_code: "85234"
+    approx_sqft: 2733.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 2.75
+    street_number: "1918"
+    street_name: Redfield
+    geo_lat: 33.3612632751465
+    list_price: 410000.0
+    year_built: 1995
+  - city: Phoenix
+    geo_lon: -112.134666442871
+    bedrooms: 3.0
+    zip_code: "85053"
+    approx_sqft: 2324.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.75
+    street_number: "14045"
+    street_name: "35"
+    geo_lat: 33.614860534668
+    list_price: 230000.0
+    year_built: 1971
+  - city: Phoenix
+    geo_lon: -112.024337768555
+    bedrooms: 2.0
+    zip_code: "85040"
+    approx_sqft: 
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "2614"
+    street_name: WOOD
+    geo_lat: 33.4089965820312
+    list_price: 84900.0
+    year_built: 1955
+  - city: Glendale
+    geo_lon: -112.140632629395
+    bedrooms: 3.0
+    zip_code: "85308"
+    approx_sqft: 1670.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "3732"
+    street_name: CHARLESTON
+    geo_lat: 33.6490173339844
+    list_price: 185000.0
+    year_built: 1979
+  - city: Phoenix
+    geo_lon: -112.07942199707
+    bedrooms: 3.0
+    zip_code: "85013"
+    approx_sqft: 1609.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.5
+    street_number: "4116"
+    street_name: "4"
+    geo_lat: 33.4955635070801
+    list_price: 168000.0
+    year_built: 1956
+  - city: Mesa
+    geo_lon: -111.74324798584
+    bedrooms: 4.0
+    zip_code: "85205"
+    approx_sqft: 2560.0
+    street_suffix: Circle
+    unit_number:
+    bathrooms: 2.0
+    street_number: "4059"
+    street_name: Greenway
+    geo_lat: 33.4375953674316
+    list_price: 399999.0
+    year_built: 1987
+  - city: Glendale
+    geo_lon: -112.162246704102
+    bedrooms: 4.0
+    zip_code: "85306"
+    approx_sqft: 1987.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "4803"
+    street_name: Acoma
+    geo_lat: 33.6176948547363
+    list_price: 194900.0
+    year_built: 1984
+  - city: Phoenix
+    geo_lon: -112.109420776367
+    bedrooms: 3.0
+    zip_code: "85023"
+    approx_sqft: 917.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "2249"
+    street_name: Hartford
+    geo_lat: 33.6418075561523
+    list_price: 129000.0
+    year_built: 1971
+  - city: Scottsdale
+    geo_lon: -111.905708312988
+    bedrooms: 4.0
+    zip_code: "85251"
+    approx_sqft: 1674.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.75
+    street_number: "8134"
+    street_name: WELDON
+    geo_lat: 33.4907188415527
+    list_price: 249990.0
+    year_built: 1958
+  - city: Phoenix
+    geo_lon: -112.120803833008
+    bedrooms: 3.0
+    zip_code: "85053"
+    approx_sqft: 1856.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "2838"
+    street_name: Michigan
+    geo_lat: 33.6512413024902
+    list_price: 178000.0
+    year_built: 1982
+  - city: Scottsdale
+    geo_lon: -111.867050170898
+    bedrooms: 2.0
+    zip_code: "85258"
+    approx_sqft: 1162.0
+    street_suffix: Road
+    unit_number: "1041"
+    bathrooms: 2.0
+    street_number: "10017"
+    street_name: MOUNTAIN VIEW
+    geo_lat: 33.5743865966797
+    list_price: 235000.0
+    year_built: 1985
+  - city: Scottsdale
+    geo_lon: -111.897048950195
+    bedrooms: 3.0
+    zip_code: "85251"
+    approx_sqft: 1408.0
+    street_suffix: Road
+    unit_number: "#E"
+    bathrooms: 2.0
+    street_number: "8550"
+    street_name: INDIAN SCHOOL
+    geo_lat: 33.4951591491699
+    list_price: 164900.0
+    year_built: 1973
+  - city: Phoenix
+    geo_lon: -111.988136291504
+    bedrooms: 3.0
+    zip_code: "85008"
+    approx_sqft: 1230.0
+    street_suffix: Place
+    unit_number:
+    bathrooms: 2.0
+    street_number: "1224"
+    street_name: 43RD
+    geo_lat: 33.4630355834961
+    list_price: 139900.0
+    year_built: 1955
+  - city: Phoenix
+    geo_lon: -112.173240661621
+    bedrooms: 3.0
+    zip_code: "85035"
+    approx_sqft: 1546.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "1610"
+    street_name: 52ND
+    geo_lat: 33.466609954834
+    list_price: 130000.0
+    year_built: 1977
+  - city: Phoenix
+    geo_lon: -112.091690063477
+    bedrooms: 2.0
+    zip_code: "85015"
+    approx_sqft: 900.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "2942"
+    street_name: 15th
+    geo_lat: 33.481990814209
+    list_price: 95000.0
+    year_built: 1941
+  - city: Chandler
+    geo_lon: -111.857795715332
+    bedrooms: 3.0
+    zip_code: "85225"
+    approx_sqft: 1424.0
+    street_suffix: ""
+    unit_number:
+    bathrooms: 2.0
+    street_number: "824"
+    street_name: EL ALBA
+    geo_lat: 33.340087890625
+    list_price: 189900.0
+    year_built: 1980
+  - city: Phoenix
+    geo_lon: -112.097351074219
+    bedrooms: 3.0
+    zip_code: "85021"
+    approx_sqft: 1862.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.75
+    street_number: "8612"
+    street_name: 18th
+    geo_lat: 33.5621032714844
+    list_price: 264500.0
+    year_built: 1972
+  - city: Tempe
+    geo_lon: -111.959701538086
+    bedrooms: 4.0
+    zip_code: "85281"
+    approx_sqft: 1800.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "1350"
+    street_name: 16TH
+    geo_lat: 33.4117088317871
+    list_price: 232000.0
+    year_built: 1960
+  - city: Phoenix
+    geo_lon: -112.098983764648
+    bedrooms: 3.0
+    zip_code: "85021"
+    approx_sqft: 1460.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 1.75
+    street_number: "1828"
+    street_name: LAWRENCE
+    geo_lat: 33.5646057128906
+    list_price: 195000.0
+    year_built: 1958
+  - city: Phoenix
+    geo_lon: -112.122833251953
+    bedrooms: 2.0
+    zip_code: "85017"
+    approx_sqft: 828.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "4131"
+    street_name: "30"
+    geo_lat: 33.4963340759277
+    list_price: 95000.0
+    year_built: 1951
+  - city: Phoenix
+    geo_lon: -112.090370178223
+    bedrooms: 2.0
+    zip_code: "85041"
+    approx_sqft: 
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "9404"
+    street_name: "12"
+    geo_lat: 33.3609199523926
+    list_price: 29900.0
+    year_built: 1972
+  - city: Mesa
+    geo_lon: -111.835235595703
+    bedrooms: 3.0
+    zip_code: "85201"
+    approx_sqft: 1064.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "157"
+    street_name: Juniper
+    geo_lat: 33.4480056762695
+    list_price: 131000.0
+    year_built: 1971
+  - city: Phoenix
+    geo_lon: -112.146293640137
+    bedrooms: 3.0
+    zip_code: "85029"
+    approx_sqft: 1500.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.75
+    street_number: "3948"
+    street_name: PERSHING
+    geo_lat: 33.606201171875
+    list_price: 185000.0
+    year_built: 1983
+  - city: Phoenix
+    geo_lon: -112.093681335449
+    bedrooms: 3.0
+    zip_code: "85021"
+    approx_sqft: 1100.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "10207"
+    street_name: 16th
+    geo_lat: 33.5786666870117
+    list_price: 132500.0
+    year_built: 1958
+  - city: Glendale
+    geo_lon: -112.146057128906
+    bedrooms: 3.0
+    zip_code: "85308"
+    approx_sqft: 1642.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.75
+    street_number: "4016"
+    street_name: WESCOTT
+    geo_lat: 33.6587524414062
+    list_price: 325000.0
+    year_built: 1980
+  - city: Phoenix
+    geo_lon: -111.993804931641
+    bedrooms: 3.0
+    zip_code: "85040"
+    approx_sqft: 1120.0
+    street_suffix: Road
+    unit_number: "*NICE"
+    bathrooms: 2.0
+    street_number: "4039"
+    street_name: PECAN
+    geo_lat: 33.3949356079102
+    list_price: 135000.0
+    year_built: 1979
+  - city: Phoenix
+    geo_lon: -112.144920349121
+    bedrooms: 2.0
+    zip_code: "85019"
+    approx_sqft: 1380.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "4005"
+    street_name: Palo Verde
+    geo_lat: 33.522891998291
+    list_price: 145000.0
+    year_built: 1968
+  - city: Mesa
+    geo_lon: -111.605697631836
+    bedrooms: 4.0
+    zip_code: "85208"
+    approx_sqft: 1693.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "518"
+    street_name: 104th
+    geo_lat: 33.4059982299805
+    list_price: 230000.0
+    year_built: 2000
+  - city: Phoenix
+    geo_lon: -112.085578918457
+    bedrooms: 3.0
+    zip_code: "85013"
+    approx_sqft: 
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "837"
+    street_name: Fairmount
+    geo_lat: 33.4922142028809
+    list_price: 169900.0
+    year_built: 1951
+  - city: Phoenix
+    geo_lon: -111.993576049805
+    bedrooms: 3.0
+    zip_code: "85050"
+    approx_sqft: 1514.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "4109"
+    street_name: Union Hllls
+    geo_lat: 33.6548767089844
+    list_price: 174900.0
+    year_built: 1959
+  - city: Youngtown
+    geo_lon: -112.30818939209
+    bedrooms: 4.0
+    zip_code: "85363"
+    approx_sqft: 2004.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.5
+    street_number: "11553"
+    street_name: . Brown St.
+    geo_lat: 33.5748672485352
+    list_price: 215000.0
+    year_built: 2005
+  - city: Payson
+    geo_lon: -111.332763671875
+    bedrooms: 3.0
+    zip_code: "85541"
+    approx_sqft: 
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "908"
+    street_name: SHERWOOD DRIVE
+    geo_lat: 34.2513694763184
+    list_price: 125000.0
+    year_built: 2002
+  - city: Phoenix
+    geo_lon: -112.098594665527
+    bedrooms: 3.0
+    zip_code: "85021"
+    approx_sqft: 1428.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 1.75
+    street_number: "1832"
+    street_name: MISSION
+    geo_lat: 33.5693206787109
+    list_price: 134900.0
+    year_built: 1959
+  - city: Flagstaff
+    geo_lon: -111.668464660645
+    bedrooms: 4.0
+    zip_code: "86001"
+    approx_sqft: 1688.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.5
+    street_number: "3306"
+    street_name: Litzler
+    geo_lat: 35.1699676513672
+    list_price: 269000.0
+    year_built: 2002
+  - city: Scottsdale
+    geo_lon: -111.845413208008
+    bedrooms: 3.0
+    zip_code: "85259"
+    approx_sqft: 1663.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "11479"
+    street_name: "109"
+    geo_lat: 33.5900726318359
+    list_price: 385000.0
+    year_built: 1985
+  - city: Mesa
+    geo_lon: -111.813011169434
+    bedrooms: 3.0
+    zip_code: "85203"
+    approx_sqft: 2982.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.5
+    street_number: "306"
+    street_name: Fraser Drive West
+    geo_lat: 33.4206314086914
+    list_price: 360000.0
+    year_built: 1957
+  - city: Phoenix
+    geo_lon: -112.145225524902
+    bedrooms: 4.0
+    zip_code: "85019"
+    approx_sqft: 1741.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.75
+    street_number: "4008"
+    street_name: Keim
+    geo_lat: 33.5270576477051
+    list_price: 146500.0
+    year_built: 1957
+  - city: Scottsdale
+    geo_lon: -111.914703369141
+    bedrooms: 3.0
+    zip_code: "85250"
+    approx_sqft: 1071.0
+    street_suffix: Street
+    unit_number: "260"
+    bathrooms: 2.0
+    street_number: "6350"
+    street_name: 78th
+    geo_lat: 33.5290718078613
+    list_price: 199900.0
+    year_built: 1975
+  - city: Phoenix
+    geo_lon: -112.079216003418
+    bedrooms: 3.0
+    zip_code: "85027"
+    approx_sqft: 1140.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 2.0
+    street_number: "310"
+    street_name: Marco Polo
+    geo_lat: 33.6673622131348
+    list_price: 165000.0
+    year_built: 1979
+  - city: Phoenix
+    geo_lon: -112.128234863281
+    bedrooms: 2.0
+    zip_code: "85051"
+    approx_sqft: 899.0
+    street_suffix: Lane
+    unit_number: "#1"
+    bathrooms: 1.0
+    street_number: "3202"
+    street_name: Loma
+    geo_lat: 33.5542755126953
+    list_price: 81000.0
+    year_built: 1984
+  - city: Phoenix
+    geo_lon: -112.005813598633
+    bedrooms: 3.0
+    zip_code: "85008"
+    approx_sqft: 1117.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 1.75
+    street_number: "3512"
+    street_name: GRANADA
+    geo_lat: 33.4687461853027
+    list_price: 189900.0
+    year_built: 1957
+  - city: Phoenix
+    geo_lon: -111.987998962402
+    bedrooms: 3.0
+    zip_code: "85032"
+    approx_sqft: 2225.0
+    street_suffix: Way
+    unit_number:
+    bathrooms: 1.75
+    street_number: "17832"
+    street_name: 43rd
+    geo_lat: 33.6491432189941
+    list_price: 212000.0
+    year_built: 1970
+  - city: Phoenix
+    geo_lon: -112.248603820801
+    bedrooms: 3.0
+    zip_code: "85037"
+    approx_sqft: 1380.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "8749"
+    street_name: MEADOWBROOK
+    geo_lat: 33.5029716491699
+    list_price: 155000.0
+    year_built: 1985
+  - city: Phoenix
+    geo_lon: -112.098541259766
+    bedrooms: 3.0
+    zip_code: "85027"
+    approx_sqft: 1560.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "1826"
+    street_name: BEHREND
+    geo_lat: 33.6658210754395
+    list_price: 149900.0
+    year_built: 1974
+  - city: Scottsdale
+    geo_lon: -111.874496459961
+    bedrooms: 2.0
+    zip_code: "85260"
+    approx_sqft: 1540.0
+    street_suffix: Drive
+    unit_number: "2011"
+    bathrooms: 2.0
+    street_number: "9555"
+    street_name: raintree
+    geo_lat: 33.6180419921875
+    list_price: 305000.0
+    year_built: 2000
+  - city: Apache Junction
+    geo_lon: -111.525215148926
+    bedrooms: 3.0
+    zip_code: "85219"
+    approx_sqft: 1456.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.75
+    street_number: "1920"
+    street_name: 20th
+    geo_lat: 33.3974494934082
+    list_price: 188000.0
+    year_built: 1999
+  - city: Phoenix
+    geo_lon: -112.085426330566
+    bedrooms: 3.0
+    zip_code: "85041"
+    approx_sqft: 1047.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 1.0
+    street_number: "826"
+    street_name: PIEDMONT
+    geo_lat: 33.359748840332
+    list_price: 139000.0
+    year_built: 1960
+  - city: Phoenix
+    geo_lon: -111.998764038086
+    bedrooms: 3.0
+    zip_code: "85008"
+    approx_sqft: 1888.0
+    street_suffix: Place
+    unit_number:
+    bathrooms: 2.0
+    street_number: "2402"
+    street_name: 38TH
+    geo_lat: 33.4740028381348
+    list_price: 244500.0
+    year_built: 1955
+  - city: Scottsdale
+    geo_lon: -111.920417785645
+    bedrooms: 3.0
+    zip_code: "85257"
+    approx_sqft: 1620.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "7415"
+    street_name: Garfield
+    geo_lat: 33.4568481445312
+    list_price: 219900.0
+    year_built: 1960
+  - city: Glendale
+    geo_lon: -112.219970703125
+    bedrooms: 3.0
+    zip_code: "85308"
+    approx_sqft: 1868.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 2.0
+    street_number: "20810"
+    street_name: 74TH
+    geo_lat: 33.6735763549805
+    list_price: 259900.0
+    year_built: 1999
+  - city: Tempe
+    geo_lon: -111.960113525391
+    bedrooms: 4.0
+    zip_code: "85283"
+    approx_sqft: 1392.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.75
+    street_number: "1226"
+    street_name: Auburn
+    geo_lat: 33.3736228942871
+    list_price: 175000.0
+    year_built: 1979
+  - city: Phoenix
+    geo_lon: -112.11408996582
+    bedrooms: 3.0
+    zip_code: "85017"
+    approx_sqft: 1080.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "2531"
+    street_name: FLOWER
+    geo_lat: 33.4859657287598
+    list_price: 115000.0
+    year_built: 1952
+  - city: Phoenix
+    geo_lon: -112.033210754395
+    bedrooms: 4.0
+    zip_code: "85016"
+    approx_sqft: 2600.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 3.0
+    street_number: "2226"
+    street_name: Montebello
+    geo_lat: 33.5204887390137
+    list_price: 775000.0
+    year_built: 1963
+  - city: Chandler
+    geo_lon: -111.873313903809
+    bedrooms: 3.0
+    zip_code: "85224"
+    approx_sqft: 1216.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.75
+    street_number: "1718"
+    street_name: LOUGHLIN
+    geo_lat: 33.3456802368164
+    list_price: 162000.0
+    year_built: 1980
+  - city: Mesa
+    geo_lon: -111.837608337402
+    bedrooms: 3.0
+    zip_code: "85201"
+    approx_sqft: 1120.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "226"
+    street_name: 2ND
+    geo_lat: 33.4198608398438
+    list_price: 155000.0
+    year_built: 1925
+  - city: Scottsdale
+    geo_lon: -111.925117492676
+    bedrooms: 3.0
+    zip_code: "85257"
+    approx_sqft: 1212.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "7227"
+    street_name: Pierce
+    geo_lat: 33.454761505127
+    list_price: 199900.0
+    year_built: 1961
+  - city: Phoenix
+    geo_lon: -112.129669189453
+    bedrooms: 2.0
+    zip_code: "85051"
+    approx_sqft: 1268.0
+    street_suffix: Avenue
+    unit_number: "137"
+    bathrooms: 2.5
+    street_number: "3228"
+    street_name: GLENDALE
+    geo_lat: 33.5405654907227
+    list_price: 81900.0
+    year_built: 1986
+  - city: Mesa
+    geo_lon: -111.822036743164
+    bedrooms: 2.0
+    zip_code: "85203"
+    approx_sqft: 720.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "2206"
+    street_name: Spring
+    geo_lat: 33.4553642272949
+    list_price: 49500.0
+    year_built: 1970
+  - city: Phoenix
+    geo_lon: -112.128814697266
+    bedrooms: 3.0
+    zip_code: "85017"
+    approx_sqft: 1330.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "6743"
+    street_name: "32"
+    geo_lat: 33.5365409851074
+    list_price: 90000.0
+    year_built: 1954
+  - city: Phoenix
+    geo_lon: -112.051902770996
+    bedrooms: 4.0
+    zip_code: "85024"
+    approx_sqft: 2139.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.5
+    street_number: "19837"
+    street_name: 14TH
+    geo_lat: 33.6671447753906
+    list_price: 375000.0
+    year_built: 2001
+  - city: Mayer
+    geo_lon: -112.240341186523
+    bedrooms: 2.0
+    zip_code: "86333"
+    approx_sqft: 1258.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "12651"
+    street_name: MAIN
+    geo_lat: 34.3996467590332
+    list_price: 129900.0
+    year_built: 1961
+  - city: Phoenix
+    geo_lon: -112.144668579102
+    bedrooms: 5.0
+    zip_code: "85019"
+    approx_sqft: 2550.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "3944"
+    street_name: COLTER
+    geo_lat: 33.5139999389648
+    list_price: 170000.0
+    year_built: 1970
+  - city: Scottsdale
+    geo_lon: -111.904273986816
+    bedrooms: 3.0
+    zip_code: "85250"
+    approx_sqft: 1352.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "8204"
+    street_name: Keim
+    geo_lat: 33.5269622802734
+    list_price: 199900.0
+    year_built: 1970
+  - city: Phoenix
+    geo_lon: -112.019020080566
+    bedrooms: 4.0
+    zip_code: "85008"
+    approx_sqft: 2016.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 3.0
+    street_number: "2907"
+    street_name: BRILL
+    geo_lat: 33.4646072387695
+    list_price: 149900.0
+    year_built: 1950
+  - city: Eloy
+    geo_lon: -111.596313476562
+    bedrooms: 3.0
+    zip_code: "85231"
+    approx_sqft: 1672.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 3.0
+    street_number: "3950"
+    street_name: HOHOKAM
+    geo_lat: 32.7907638549805
+    list_price: 109000.0
+    year_built: 1970
+  - city: Phoenix
+    geo_lon: -112.005149841309
+    bedrooms: 3.0
+    zip_code: "85032"
+    approx_sqft: 1101.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 1.0
+    street_number: "3519"
+    street_name: Saint John
+    geo_lat: 33.6462440490723
+    list_price: 167900.0
+    year_built: 1979
+  - city: Peoria
+    geo_lon: -112.242362976074
+    bedrooms: 4.0
+    zip_code: "85382"
+    approx_sqft: 1884.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 2.0
+    street_number: "8500"
+    street_name: Saint John
+    geo_lat: 33.6453857421875
+    list_price: 245000.0
+    year_built: 1994
+  - city: Glendale
+    geo_lon: -112.179817199707
+    bedrooms: 4.0
+    zip_code: "85301"
+    approx_sqft: 1724.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "5553"
+    street_name: BELMONT
+    geo_lat: 33.5482864379883
+    list_price: 184900.0
+    year_built: 1962
+  - city: Queen Creek
+    geo_lon: -111.671936035156
+    bedrooms: 4.0
+    zip_code: "85242"
+    approx_sqft: 2486.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "19032"
+    street_name: Indiana
+    geo_lat: 33.2188873291016
+    list_price: 399900.0
+    year_built: 2005
+  - city: Queen Creek
+    geo_lon: -111.671409606934
+    bedrooms: 4.0
+    zip_code: "85242"
+    approx_sqft: 2456.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "19048"
+    street_name: Indiana
+    geo_lat: 33.2188835144043
+    list_price: 390000.0
+    year_built: 2005
+  - city: Phoenix
+    geo_lon: -112.189605712891
+    bedrooms: 5.0
+    zip_code: "85033"
+    approx_sqft: 1848.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "6036"
+    street_name: Avalon
+    geo_lat: 33.4832000732422
+    list_price: 144900.0
+    year_built: 1960
+  - city: Mesa
+    geo_lon: -111.837554931641
+    bedrooms: 2.0
+    zip_code: "85201"
+    approx_sqft: 1056.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "262"
+    street_name: HILLSIDE
+    geo_lat: 33.4429168701172
+    list_price: 135000.0
+    year_built: 1969
+  - city: Glendale
+    geo_lon: -112.249755859375
+    bedrooms: 3.0
+    zip_code: "85305"
+    approx_sqft: 1895.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "8857"
+    street_name: Keim
+    geo_lat: 33.5262641906738
+    list_price: 229000.0
+    year_built: 1991
+  - city: Desert Hills
+    geo_lon: -112.055015563965
+    bedrooms: 4.0
+    zip_code: "85086"
+    approx_sqft: 2016.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "35915"
+    street_name: 12TH
+    geo_lat: 33.8116302490234
+    list_price: 215000.0
+    year_built: 1998
+  - city: Phoenix
+    geo_lon: -112.136077880859
+    bedrooms: 4.0
+    zip_code: "85053"
+    approx_sqft: 2712.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 3.0
+    street_number: "13801"
+    street_name: 36th
+    geo_lat: 33.6111526489258
+    list_price: 218000.0
+    year_built: 1971
+  - city: Globe
+    geo_lon: -110.777191162109
+    bedrooms: 2.0
+    zip_code: "85501"
+    approx_sqft: 788.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 1.0
+    street_number: "235"
+    street_name: Jessa Hayes
+    geo_lat: 33.3874855041504
+    list_price: 29900.0
+    year_built: 1957
+  - city: Phoenix
+    geo_lon: -112.07544708252
+    bedrooms: 2.0
+    zip_code: "85003"
+    approx_sqft: 1118.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "29"
+    street_name: WILSHIRE
+    geo_lat: 33.4754905700684
+    list_price: 299000.0
+    year_built: 1934
+  - city: Mesa
+    geo_lon: -111.797676086426
+    bedrooms: 3.0
+    zip_code: "85203"
+    approx_sqft: 1930.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "1533"
+    street_name: Juniper
+    geo_lat: 33.4484901428223
+    list_price: 259900.0
+    year_built: 1979
+  - city: Phoenix
+    geo_lon: -112.134552001953
+    bedrooms: 3.0
+    zip_code: "85029"
+    approx_sqft: 2298.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.5
+    street_number: "11001"
+    street_name: 35th
+    geo_lat: 33.5857353210449
+    list_price: 215000.0
+    year_built: 1967
+  - city: Tempe
+    geo_lon: -111.955711364746
+    bedrooms: 4.0
+    zip_code: "85283"
+    approx_sqft: 1435.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "6145"
+    street_name: PARKSIDE
+    geo_lat: 33.3658409118652
+    list_price: 214900.0
+    year_built: 1982
+  - city: Mesa
+    geo_lon: -111.621192932129
+    bedrooms: 3.0
+    zip_code: "85207"
+    approx_sqft: 994.0
+    street_suffix: ""
+    unit_number: "56"
+    bathrooms: 2.0
+    street_number: "106"
+    street_name: DREXEL
+    geo_lat: 33.4170837402344
+    list_price: 145000.0
+    year_built: 2004
+  - city: Phoenix
+    geo_lon: -112.286033630371
+    bedrooms: 3.0
+    zip_code: "85037"
+    approx_sqft: 1288.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.75
+    street_number: "10472"
+    street_name: MONTEROSA
+    geo_lat: 33.4950141906738
+    list_price: 129500.0
+    year_built: 1973
+  - city: Gilbert
+    geo_lon: -111.714248657227
+    bedrooms: 4.0
+    zip_code: "85234"
+    approx_sqft: 2522.0
+    street_suffix: Court
+    unit_number:
+    bathrooms: 2.5
+    street_number: "3552"
+    street_name: HARVARD
+    geo_lat: 33.3674545288086
+    list_price: 423900.0
+    year_built: 2001
+  - city: Glendale
+    geo_lon: -112.186302185059
+    bedrooms: 3.0
+    zip_code: "85304"
+    approx_sqft: 1735.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "13007"
+    street_name: 59TH
+    geo_lat: 33.6039886474609
+    list_price: 220000.0
+    year_built: 1981
+  - city: Mesa
+    geo_lon: -111.697418212891
+    bedrooms: 3.0
+    zip_code: "85205"
+    approx_sqft: 1949.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "6154"
+    street_name: Hannibal
+    geo_lat: 33.4440994262695
+    list_price: 199500.0
+    year_built: 1979
+  - city: Tempe
+    geo_lon: -111.930374145508
+    bedrooms: 3.0
+    zip_code: "85281"
+    approx_sqft: 2000.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 3.0
+    street_number: "1614"
+    street_name: Ventura
+    geo_lat: 33.4101257324219
+    list_price: 279000.0
+    year_built: 1954
+  - city: Sun City
+    geo_lon: -112.282417297363
+    bedrooms: 2.0
+    zip_code: "85373"
+    approx_sqft: 1644.0
+    street_suffix: Boulevard
+    unit_number:
+    bathrooms: 2.0
+    street_number: "17658"
+    street_name: DEL WEBB
+    geo_lat: 33.6444816589355
+    list_price: 127000.0
+    year_built: 1976
+  - city: Glendale
+    geo_lon: -112.144134521484
+    bedrooms: 4.0
+    zip_code: "85310"
+    approx_sqft: 2099.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 3.0
+    street_number: "4004"
+    street_name: Cieol Grande
+    geo_lat: 33.7024803161621
+    list_price: 225000.0
+    year_built: 1986
+  - city: Glendale
+    geo_lon: -112.144554138184
+    bedrooms: 3.0
+    zip_code: "85310"
+    approx_sqft: 2178.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "25232"
+    street_name: Hackberry
+    geo_lat: 33.7156677246094
+    list_price: 335000.0
+    year_built: 1999
+  - city: Paradise Valley
+    geo_lon: -111.963790893555
+    bedrooms: 4.0
+    zip_code: "85253"
+    approx_sqft: 5419.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 5.0
+    street_number: "5417"
+    street_name: ROADRUNNER
+    geo_lat: 33.5482788085938
+    list_price: 3495000.0
+    year_built: 2002
+  - city: Phoenix
+    geo_lon: -112.146369934082
+    bedrooms: 3.0
+    zip_code: "85051"
+    approx_sqft: 1225.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "4034"
+    street_name: Las Palmaritas
+    geo_lat: 33.5580101013184
+    list_price: 140000.0
+    year_built: 1966
+  - city: Phoenix
+    geo_lon: -112.120956420898
+    bedrooms: 2.0
+    zip_code: "85029"
+    approx_sqft: 1180.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "2714"
+    street_name: DESERT COVE
+    geo_lat: 33.5864448547363
+    list_price: 140000.0
+    year_built: 1979
+  - city: Phoenix
+    geo_lon: -112.13240814209
+    bedrooms: 3.0
+    zip_code: "85053"
+    approx_sqft: 1170.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "18207"
+    street_name: 34TH
+    geo_lat: 33.6513366699219
+    list_price: 140000.0
+    year_built: 1973
+  - city: Scottsdale
+    geo_lon: -111.894462585449
+    bedrooms: 4.0
+    zip_code: "85250"
+    approx_sqft: 1989.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "8638"
+    street_name: VISTA
+    geo_lat: 33.5132369995117
+    list_price: 260000.0
+    year_built: 1961
+  - city: Phoenix
+    geo_lon: -111.992553710938
+    bedrooms: 2.0
+    zip_code: "85008"
+    approx_sqft: 965.0
+    street_suffix: Place
+    unit_number:
+    bathrooms: 1.0
+    street_number: "516"
+    street_name: 41st
+    geo_lat: 33.4541893005371
+    list_price: 120900.0
+    year_built: 1947
+  - city: Maricopa
+    geo_lon: -112.240882873535
+    bedrooms: 3.0
+    zip_code: "85037"
+    approx_sqft: 1050.0
+    street_suffix: Street
+    unit_number: "1"
+    bathrooms: 1.5
+    street_number: "8423"
+    street_name: monterosa
+    geo_lat: 33.4951629638672
+    list_price: 127000.0
+    year_built: 1971
+  - city: Phoenix
+    geo_lon: -112.11540222168
+    bedrooms: 3.0
+    zip_code: "85023"
+    approx_sqft: 1246.0
+    street_suffix: Circle
+    unit_number:
+    bathrooms: 1.5
+    street_number: "16049"
+    street_name: "26"
+    geo_lat: 33.6319198608398
+    list_price: 121500.0
+    year_built: 1974
+  - city: Phoenix
+    geo_lon: -112.101791381836
+    bedrooms: 3.0
+    zip_code: "85041"
+    approx_sqft: 1290.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 2.0
+    street_number: "5615"
+    street_name: 20TH
+    geo_lat: 33.3960800170898
+    list_price: 136000.0
+    year_built: 1970
+  - city: Gilbert
+    geo_lon: -111.77222442627
+    bedrooms: 3.0
+    zip_code: "85234"
+    approx_sqft: 1699.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 2.0
+    street_number: "3464"
+    street_name: Linda `
+    geo_lat: 33.3326034545898
+    list_price: 259900.0
+    year_built: 2001
+  - city: Cave Creek
+    geo_lon: -111.939491271973
+    bedrooms: 3.0
+    zip_code: "85331"
+    approx_sqft: 2046.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.75
+    street_number: "31840"
+    street_name: 66TH
+    geo_lat: 33.7754287719727
+    list_price: 429000.0
+    year_built: 1989
+  - city: Phoenix
+    geo_lon: -112.138290405273
+    bedrooms: 4.0
+    zip_code: "85019"
+    approx_sqft: 2180.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.75
+    street_number: "5719"
+    street_name: 37TH
+    geo_lat: 33.5211181640625
+    list_price: 159000.0
+    year_built: 1958
+  - city: Phoenix
+    geo_lon: -111.98770904541
+    bedrooms: 6.0
+    zip_code: "85028"
+    approx_sqft: 5498.0
+    street_suffix: Way
+    unit_number:
+    bathrooms: 5.0
+    street_number: "9606"
+    street_name: 43rd
+    geo_lat: 33.5745315551758
+    list_price: 1250000.0
+    year_built: 1986
+  - city: Phoenix
+    geo_lon: -112.135482788086
+    bedrooms: 2.0
+    zip_code: "85027"
+    approx_sqft: 840.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "20617"
+    street_name: "35"
+    geo_lat: 33.6736183166504
+    list_price: 55000.0
+    year_built: 1970
+  - city: Sun City
+    geo_lon: -112.274040222168
+    bedrooms: 2.0
+    zip_code: "85351"
+    approx_sqft: 995.0
+    street_suffix: Circle
+    unit_number:
+    bathrooms: 1.0
+    street_number: "9911"
+    street_name: DESERT FOREST
+    geo_lat: 33.6164207458496
+    list_price: 129900.0
+    year_built: 1971
+  - city: Casa Grande
+    geo_lon: -111.750122070312
+    bedrooms: 5.0
+    zip_code: "85222"
+    approx_sqft: 2653.0
+    street_suffix: ""
+    unit_number:
+    bathrooms: 2.0
+    street_number: "317"
+    street_name: Paseo de Paula
+    geo_lat: 32.8873062133789
+    list_price: 265000.0
+    year_built: 1980
+  - city: Mesa
+    geo_lon: -111.687316894531
+    bedrooms: 4.0
+    zip_code: "85215"
+    approx_sqft: 2026.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.5
+    street_number: "6621"
+    street_name: RUSSELL
+    geo_lat: 33.4755744934082
+    list_price: 265000.0
+    year_built: 1994
+  - city: Phoenix
+    geo_lon: -112.144332885742
+    bedrooms: 4.0
+    zip_code: "85009"
+    approx_sqft: 1616.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "3928"
+    street_name: LYNWOOD
+    geo_lat: 33.4651832580566
+    list_price: 139900.0
+    year_built: 1960
+  - city: Desert Hills
+    geo_lon: -112.087501525879
+    bedrooms: 4.0
+    zip_code: "85086"
+    approx_sqft: 2466.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 2.5
+    street_number: "1111"
+    street_name: JOY RANCH
+    geo_lat: 33.8276443481445
+    list_price: 395000.0
+    year_built: 1988
+  - city: Phoenix
+    geo_lon: -112.02904510498
+    bedrooms: 4.0
+    zip_code: "85016"
+    approx_sqft: 1488.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "2425"
+    street_name: AMELIA
+    geo_lat: 33.4936866760254
+    list_price: 154900.0
+    year_built: 1945
+  - city: Pine
+    geo_lon: -111.458656311035
+    bedrooms: 2.0
+    zip_code: "85544"
+    approx_sqft: 1278.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "61"
+    street_name: Fuller
+    geo_lat: 34.3774795532227
+    list_price: 160000.0
+    year_built: 1988
+  - city: Claypool
+    geo_lon: -110.843551635742
+    bedrooms: 0.0
+    zip_code: "85532"
+    approx_sqft: 480.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "5872"
+    street_name: Ransberger Hill
+    geo_lat: 33.4110946655273
+    list_price: 20000.0
+    year_built: 1925
+  - city: Mesa
+    geo_lon: -111.677742004395
+    bedrooms: 2.0
+    zip_code: "85208"
+    approx_sqft: 1879.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.75
+    street_number: "810"
+    street_name: Clearview Avenue
+    geo_lat: 33.4003257751465
+    list_price: 234900.0
+    year_built: 1972
+  - city: Phoenix
+    geo_lon: -112.222137451172
+    bedrooms: 3.0
+    zip_code: "85033"
+    approx_sqft: 1096.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "3431"
+    street_name: 76TH
+    geo_lat: 33.488712310791
+    list_price: 109000.0
+    year_built: 1961
+  - city: Mesa
+    geo_lon: -111.660446166992
+    bedrooms: 4.0
+    zip_code: "85207"
+    approx_sqft: 1718.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "7919"
+    street_name: Des Moines
+    geo_lat: 33.4269142150879
+    list_price: 234900.0
+    year_built: 1997
+  - city: Scottsdale
+    geo_lon: -111.906211853027
+    bedrooms: 4.0
+    zip_code: "85251"
+    approx_sqft: 2170.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.25
+    street_number: "4025"
+    street_name: 81st
+    geo_lat: 33.494213104248
+    list_price: 295000.0
+    year_built: 1958
+  - city: Gilbert
+    geo_lon: -111.703636169434
+    bedrooms: 4.0
+    zip_code: "85236"
+    approx_sqft: 3945.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 3.0
+    street_number: "4046"
+    street_name: Laurel
+    geo_lat: 33.3602981567383
+    list_price: 464900.0
+    year_built: 2002
+  - city: Phoenix
+    geo_lon: -112.137161254883
+    bedrooms: 3.0
+    zip_code: "85019"
+    approx_sqft: 830.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "3619"
+    street_name: MEADOWBROOK
+    geo_lat: 33.5042343139648
+    list_price: 108900.0
+    year_built: 1950
+  - city: Scottsdale
+    geo_lon: -111.864906311035
+    bedrooms: 2.0
+    zip_code: "85258"
+    approx_sqft: 1214.0
+    street_suffix: Drive
+    unit_number: "2007"
+    bathrooms: 1.75
+    street_number: "10055"
+    street_name: Mountainview Lake
+    geo_lat: 33.5755653381348
+    list_price: 229900.0
+    year_built: 1984
+  - city: Glendale
+    geo_lon: -112.163612365723
+    bedrooms: 4.0
+    zip_code: "85302"
+    approx_sqft: 2013.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.75
+    street_number: "4840"
+    street_name: CHERYL
+    geo_lat: 33.5792236328125
+    list_price: 179999.0
+    year_built: 1973
+  - city: Phoenix
+    geo_lon: -112.118507385254
+    bedrooms: 2.0
+    zip_code: "85009"
+    approx_sqft: 692.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "2722"
+    street_name: ADAMS
+    geo_lat: 33.4494094848633
+    list_price: 57500.0
+    year_built: 1946
+  - city: Tempe
+    geo_lon: -111.937217712402
+    bedrooms: 3.0
+    zip_code: "85283"
+    approx_sqft: 1887.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 3.25
+    street_number: "5338"
+    street_name: BRADLEY
+    geo_lat: 33.3744697570801
+    list_price: 249999.0
+    year_built: 1973
+  - city: Phoenix
+    geo_lon: -112.17667388916
+    bedrooms: 5.0
+    zip_code: "85031"
+    approx_sqft: 2789.0
+    street_suffix: Lane
+    unit_number:
+    bathrooms: 2.75
+    street_number: "3229"
+    street_name: "54"
+    geo_lat: 33.486400604248
+    list_price: 159000.0
+    year_built: 1959
+  - city: Phoenix
+    geo_lon: -111.983497619629
+    bedrooms: 5.0
+    zip_code: "85032"
+    approx_sqft: 2592.0
+    street_suffix: Place
+    unit_number:
+    bathrooms: 2.0
+    street_number: "15809"
+    street_name: 45th
+    geo_lat: 33.6303482055664
+    list_price: 450000.0
+    year_built: 1991
+  - city: Phoenix
+    geo_lon: -112.102867126465
+    bedrooms: 4.0
+    zip_code: "85021"
+    approx_sqft: 1976.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "2022"
+    street_name: STATE
+    geo_lat: 33.5446128845215
+    list_price: 177500.0
+    year_built: 1959
+  - city: Mesa
+    geo_lon: -111.751274108887
+    bedrooms: 3.0
+    zip_code: "85206"
+    approx_sqft: 1343.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.75
+    street_number: "3724"
+    street_name: DEWBERRY
+    geo_lat: 33.403564453125
+    list_price: 199900.0
+    year_built: 1983
+  - city: Glendale
+    geo_lon: -112.177764892578
+    bedrooms: 3.0
+    zip_code: "85301"
+    approx_sqft: 2521.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 3.0
+    street_number: "5502"
+    street_name: FRIER
+    geo_lat: 33.5495681762695
+    list_price: 265000.0
+    year_built: 1976
+  - city: Phoenix
+    geo_lon: -112.080810546875
+    bedrooms: 4.0
+    zip_code: "85003"
+    approx_sqft: 1971.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.75
+    street_number: "506"
+    street_name: VERNON
+    geo_lat: 33.4742851257324
+    list_price: 399000.0
+    year_built: 1941
+  - city: Mesa
+    geo_lon: -111.802192687988
+    bedrooms: 3.0
+    zip_code: "85204"
+    approx_sqft: 1118.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "1351"
+    street_name: Hopi
+    geo_lat: 33.3873138427734
+    list_price: 109900.0
+    year_built: 1980
+  - city: Mesa
+    geo_lon: -111.85710144043
+    bedrooms: 2.0
+    zip_code: "85210"
+    approx_sqft: 909.0
+    street_suffix: Road
+    unit_number: "14"
+    bathrooms: 1.0
+    street_number: "948"
+    street_name: so alma school
+    geo_lat: 33.3975296020508
+    list_price: 78900.0
+    year_built: 1975
+  - city: Florence
+    geo_lon: -111.387542724609
+    bedrooms: 3.0
+    zip_code: "85232"
+    approx_sqft: 4274.0
+    street_suffix: Road
+    unit_number:
+    bathrooms: 4.0
+    street_number: "46558"
+    street_name: PEG LEG RANCH RD
+    geo_lat: 33.0388145446777
+    list_price: 1850000.0
+    year_built: 1999
+  - city: Glendale
+    geo_lon: -112.217178344727
+    bedrooms: 4.0
+    zip_code: "85303"
+    approx_sqft: 2102.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "7326"
+    street_name: Keim
+    geo_lat: 33.525260925293
+    list_price: 200000.0
+    year_built: 1986
+  - city: Phoenix
+    geo_lon: -112.051658630371
+    bedrooms: 3.0
+    zip_code: "85006"
+    approx_sqft: 1134.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "1405"
+    street_name: DIAMOND
+    geo_lat: 33.4593505859375
+    list_price: 115000.0
+    year_built: 1938
+  - city: Phoenix
+    geo_lon: -112.046592712402
+    bedrooms: 2.0
+    zip_code: "85016"
+    approx_sqft: 1138.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.0
+    street_number: "1626"
+    street_name: EARLL
+    geo_lat: 33.4841957092285
+    list_price: 230000.0
+    year_built: 1930
+  - city: Glendale
+    geo_lon: -112.19856262207
+    bedrooms: 3.0
+    zip_code: "85302"
+    approx_sqft: 1272.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "10016"
+    street_name: 64TH
+    geo_lat: 33.5772094726562
+    list_price: 178500.0
+    year_built: 1985
+  - city: Apache Junction
+    geo_lon: -111.572547912598
+    bedrooms: 1.0
+    zip_code: "85220"
+    approx_sqft: 637.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 1.0
+    street_number: "2444"
+    street_name: VIRGINIA
+    geo_lat: 33.4194793701172
+    list_price: 56000.0
+    year_built: 1976
+  - city: Phoenix
+    geo_lon: -112.118721008301
+    bedrooms: 2.0
+    zip_code: "85017"
+    approx_sqft: 1226.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 1.25
+    street_number: "2739"
+    street_name: SOLANO N
+    geo_lat: 33.521614074707
+    list_price: 110000.0
+    year_built: 1950
+  - city: Gilbert
+    geo_lon: -111.716804504395
+    bedrooms: 4.0
+    zip_code: "85297"
+    approx_sqft: 2146.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 3.0
+    street_number: "3414"
+    street_name: DENNISPORT
+    geo_lat: 33.305793762207
+    list_price: 299900.0
+    year_built: 2000
+  - city: Chino Valley
+    geo_lon: -112.451721191406
+    bedrooms: 3.0
+    zip_code: "86323"
+    approx_sqft: 1397.0
+    street_suffix: Circle
+    unit_number:
+    bathrooms: 2.0
+    street_number: "751"
+    street_name: Highland
+    geo_lat: 34.7271385192871
+    list_price: 197500.0
+    year_built: 1995
+  - city: Phoenix
+    geo_lon: -111.987403869629
+    bedrooms: 3.0
+    zip_code: "85018"
+    approx_sqft: 1435.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.75
+    street_number: "4335"
+    street_name: Montecito
+    geo_lat: 33.4990844726562
+    list_price: 250000.0
+    year_built: 1955
+  - city: Mesa
+    geo_lon: -111.854469299316
+    bedrooms: 4.0
+    zip_code: "85201"
+    approx_sqft: 1493.0
+    street_suffix: Street
+    unit_number:
+    bathrooms: 2.0
+    street_number: "1065"
+    street_name: 5TH
+    geo_lat: 33.4241714477539
+    list_price: 149900.0
+    year_built: 1953
+  - city: Glendale
+    geo_lon: -112.162048339844
+    bedrooms: 3.0
+    zip_code: "85308"
+    approx_sqft: 1378.0
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "4639"
+    street_name: Continental
+    geo_lat: 33.6429100036621
+    list_price: 125000.0
+    year_built: 1975
+  - city: Phoenix
+    geo_lon: -112.106750488281
+    bedrooms: 3.0
+    zip_code: "85021"
+    approx_sqft: 1200.0
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 2.0
+    street_number: "2218"
+    street_name: STATE
+    geo_lat: 33.5445404052734
+    list_price: 155000.0
+    year_built: 1958
+  - city: Peoria
+    geo_lon: -112.213447570801
+    bedrooms: 2.0
+    zip_code: "85345"
+    approx_sqft: 
+    street_suffix: Avenue
+    unit_number:
+    bathrooms: 1.0
+    street_number: "10608"
+    street_name: 72ND
+    geo_lat: 33.5818328857422
+    list_price: 139000.0
+    year_built: 1982
+  - city: Fountain Hills
+    geo_lon: -111.730026245117
+    bedrooms: 3.0
+    zip_code: "85268"
+    approx_sqft: 
+    street_suffix: Drive
+    unit_number:
+    bathrooms: 2.0
+    street_number: "16243"
+    street_name: KEYMAR
+    geo_lat: 33.612720489502
+    list_price: 435000.0
+    year_built: 1993
+  - city: Coolidge
+    geo_lon: -111.542503356934
+    bedrooms: 3.0
+    zip_code: "85128"
+    approx_sqft: 1664.0
+    street_suffix: Place
+    unit_number:
+    bathrooms: 2.0
+    street_number: "260"
+    street_name: 13th
+    geo_lat: 32.9756088256836
+    list_price: 75900.0
+    year_built: 2007
+  - city: Mesa
+    geo_lon: -111.708015441895
+    bedrooms: 1.0
+    zip_code: "85215"
+    approx_sqft: 640.0
+    street_suffix: Road
+    unit_number: "121"
+    bathrooms: 1.0
+    street_number: "5735"
+    street_name: McDowell
+    geo_lat: 33.4657325744629
+    list_price: 63900.0
+    year_built: 1993

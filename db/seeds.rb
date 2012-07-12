@@ -5,3 +5,6 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+seed_file = File.join(Rails.root, 'db', 'seeds.yml')
+seed_data = YAML::load_file(seed_file)
+Property.create(seed_data["properties"])
