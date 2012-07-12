@@ -1,0 +1,36 @@
+<h1>Listing Properties (bb)</h1>
+
+<br/>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Address</th>
+      <th>Approx Sqft</th>
+      <th>Bathrooms</th>
+      <th>Bedrooms</th>
+      <th>Geo Lat</th>
+      <th>Geo Lon</th>
+      <th>List Price</th>
+      <th>Year Built</th>
+      <th>Zip Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% for p in @properties.models: %>
+      <tr>
+        <td><%= p.get("id") %></td>
+        <td><%= p.address() %></td>
+        <td><%= p.get("approx_sqft") %></td>
+        <td><%= p.get("bathrooms") %></td>
+        <td><%= p.get("bedrooms") %></td>
+        <td><%= p.get("geo_lat") %></td>
+        <td><%= p.get("geo_lon") %></td>
+        <td><%= p.get("list_price") %></td>
+        <td><%= p.get("year_built") %></td>
+        <td><%= p.get("zip_code") %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

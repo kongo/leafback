@@ -10,4 +10,21 @@ class PropertiesController < ApplicationController
     end
   end
 
+  def show
+    @property = Property.find params[:id]
+    respond_to do |format|
+      format.html
+      format.json { respond_with @property }
+    end
+  end
+
+  def update
+    @property = Property.find params[:id]
+    @property.update_attributes params[:property]
+    respond_to do |format|
+      format.html
+      format.json { respond_with @property }
+    end
+  end
+
 end
