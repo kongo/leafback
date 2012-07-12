@@ -58,6 +58,8 @@ module Leafback
     
     config.generators do |generator|
       generator.template_engine :haml
+      generator.test_framework  :rspec, :fixture => false
+      generator.stylesheets     false
     end
   end
 end
