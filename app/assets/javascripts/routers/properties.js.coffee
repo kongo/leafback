@@ -9,7 +9,7 @@ class Leafback.Routers.Properties extends Backbone.Router
 
   index: ->
     view = new Leafback.Views.PropertiesIndex(collection: @collection)
-    $("#bb-container").html(view.render().el)
+    $("#app-container").html(view.render().el)
   
   show: (id)->
     alert("Property #{id}")
