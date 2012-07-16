@@ -4,8 +4,7 @@ class Leafback.Routers.Properties extends Backbone.Router
     "properties/:id": "show"
 
   initialize: ->
-    @collection = new Leafback.Collections.Properties()
-    @collection.fetch()
+    @collection = new Leafback.Collections.Properties(window.propertiesData)
 
   index: ->
     view = new Leafback.Views.PropertiesIndex(collection: @collection)

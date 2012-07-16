@@ -1,3 +1,6 @@
+- content_for :javascript do
+  <script type="text/javascript">window.propertiesData = #{raw @properties.to_json};</script>
+
 %h1 Listing properties
 
 -# = simple_form_for(Property.new, :html => {:class => 'form-horizontal' }) do |f|

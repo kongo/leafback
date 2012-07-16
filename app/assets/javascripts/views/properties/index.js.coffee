@@ -14,9 +14,9 @@ class Leafback.Views.PropertiesIndex extends Backbone.View
     @collection.each(@appendProperty)
     this
 
-  appendProperty: (property)->
+  appendProperty: (property)=>
     view = new Leafback.Views.Property(model: property)
-    $("table.properties tbody").prepend(view.render().el)
+    $(@el).find("table.properties tbody").prepend(view.render().el)
 
 
   createProperty: (event)->
