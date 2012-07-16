@@ -1,5 +1,5 @@
 - content_for :javascript do
-  <script type="text/javascript">window.propertiesData = #{raw @properties.to_json};</script>
+  <script type="text/javascript">window.data['properties'] = #{raw @properties.to_json};</script>
 
 %h1 Listing properties
 
@@ -15,4 +15,6 @@
 
 %br
 
-#app-container
+#show-container
+
+#index-container

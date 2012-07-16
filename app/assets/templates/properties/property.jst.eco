@@ -1,5 +1,5 @@
 <td><%= @p.get("id") %></td>
-<td><%= @p.address() %></td>
+<td><a href="/properties/<%= @p.get("id") %>" class="jlink"><%= @p.address() %></a></td>
 <td><%= @p.get("approx_sqft") %></td>
 <td><%= @p.get("bathrooms") %></td>
 <td><%= @p.get("bedrooms") %></td>

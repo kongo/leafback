@@ -5,7 +5,7 @@ window.Leafback =
   Routers: {}
   init: ->
     new Leafback.Routers.Properties()
-    Backbone.history.start()
+    Backbone.history.start(pushState: true)
 
 $(document).ready ->
   Leafback.init()

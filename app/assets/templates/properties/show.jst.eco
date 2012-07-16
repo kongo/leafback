@@ -1,0 +1,53 @@
+<table class="table table-bordered properties">
+  <tbody>
+    <tr>
+      <th width="150px">ID</th>
+      <td><%= @property.get("id") %></td>
+    </tr>
+
+    <tr>
+      <th>Address</th>
+      <td><%= @property.address() %></td>
+    </tr>
+
+    <tr>
+      <th>Approx Sqft</th>
+      <td><%= @property.get("approx_sqft") %></td>
+    </tr>
+
+    <tr>
+      <th>Bathrooms</th>
+      <td><%= @property.get("bathrooms") %></td>
+    </tr>
+
+    <tr>
+      <th>Bedrooms</th>
+      <td><%= @property.get("bedrooms") %></td>
+    </tr>
+      
+    <tr>
+      <th>Geo Lat</th>
+      <td><%= @property.get("geo_lat") %></td>
+    </tr>
+
+    <tr>
+      <th>Geo Lon</th>
+      <td><%= @property.get("geo_lon") %></td>
+    </tr>
+
+    <tr>
+      <th>List Price</th>
+      <td><%= @property.get("list_price") %></td>
+    </tr>
+
+    <tr>
+      <th>Year Built</th>
+      <td><%= @property.get("year_built") %></td>
+    </tr>
+
+    <tr>
+      <th>Zip Code</th>
+      <td><%= @property.get("zip_code") %></td>
+    </tr>
+  </tbody>
+</table>

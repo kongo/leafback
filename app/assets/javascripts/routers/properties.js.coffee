@@ -4,11 +4,20 @@ class Leafback.Routers.Properties extends Backbone.Router
     "properties/:id": "show"
 
   initialize: ->
-    @collection = new Leafback.Collections.Properties(window.propertiesData)
+    @collection = new Leafback.Collections.Properties(window.data['properties'])
 
   index: ->
     view = new Leafback.Views.PropertiesIndex(collection: @collection)
-    $("#app-container").html(view.render().el)
+    $("#index-container").html(view.render().el)
   
   show: (id)->
-    alert("Property #{id}")
+    @model    = new Leafback.Models.Property(id: id)
+    view      = new Leafback.Views.PropertiesShow(model: @model)
+    @model.on("change", -> view.render())
+
+    if window.data['property']?
+      @model.set(window.data['property'])
+    else
+      @model.fetch()
+
+    $("#show-container").html(view.render().el)

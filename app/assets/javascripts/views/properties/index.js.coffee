@@ -4,6 +4,7 @@ class Leafback.Views.PropertiesIndex extends Backbone.View
 
   events:
     "submit #new_property": "createProperty"
+    "click a.jlink": "navigateThroughLink"
 
   initialize: ->
     @collection.on("reset", @render, this)
@@ -23,3 +24,8 @@ class Leafback.Views.PropertiesIndex extends Backbone.View
     event.preventDefault()
     @collection.create street_number: $("#property_street_number").val()
     $("#new_property")[0].reset()
+
+  navigateThroughLink: (event)->
+    event.preventDefault()
+    Backbone.history.navigate(event.target.pathname, true)
+    false

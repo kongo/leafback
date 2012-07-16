@@ -1,0 +1,8 @@
+- content_for :javascript do
+  <script type="text/javascript">window.data['property'] = #{raw @property.to_json};</script>
+
+%h1= @property.address
+
+%br
+
+#show-container
