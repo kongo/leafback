@@ -6,7 +6,12 @@ class PropertiesController < ApplicationController
     @properties = Property.page params[:page]
     respond_to do |format|
       format.html
-      format.json { respond_with @properties }
+      format.json do
+        respond_with models:        @properties,
+                     current_page:  @properties.current_page,
+                     num_pages:     @properties.num_pages,
+                     per_page:      @properties.limit_value
+      end
     end
   end
 
