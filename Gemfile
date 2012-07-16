@@ -5,6 +5,7 @@ gem 'mysql2'
 gem 'jquery-rails'
 gem 'kaminari'
 gem 'backbone-on-rails'
+gem 'simple_form'
 
 group :assets do
   gem 'therubyracer', :platform => :ruby
@@ -13,6 +14,10 @@ group :assets do
   gem 'haml-rails'
   gem "twitter-bootstrap-rails"
   gem 'uglifier', '>= 1.0.3'
+end
+
+group :development do
+  gem 'thin'
 end
 
 group :test, :development do

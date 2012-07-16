@@ -1,0 +1,73 @@
+<h1>Listing Properties (bb)</h1>
+
+<form accept-charset="UTF-8" action="/properties" class="simple_form form-horizontal" id="new_property" method="post" novalidate="novalidate">
+  <div style="margin:0;padding:0;display:inline">
+    <input name="utf8" type="hidden" value="&#x2713;"/>
+  </div>
+  <div class="control-group integer optional">
+    <label class="integer optional control-label" for="property_street_number">Street number</label>
+    <div class="controls">
+      <input class="numeric integer optional" id="property_street_number" name="property[street_number]" step="1" type="number"/>
+    </div>
+  </div>
+  <div class="control-group string optional">
+    <label class="string optional control-label" for="property_street_name">Street name</label>
+    <div class="controls">
+      <input class="string optional" id="property_street_name" name="property[street_name]" size="50" type="text"/>
+    </div>
+  </div>
+  <div class="control-group string optional">
+    <label class="string optional control-label" for="property_street_suffix">Street suffix</label>
+    <div class="controls">
+      <input class="string optional" id="property_street_suffix" name="property[street_suffix]" size="50" type="text"/>
+    </div>
+  </div>
+  <div class="control-group string optional">
+    <label class="string optional control-label" for="property_city">City</label>
+    <div class="controls">
+      <input class="string optional" id="property_city" name="property[city]" size="50" type="text"/>
+    </div>
+  </div>
+  <div class="control-group integer optional">
+    <label class="integer optional control-label" for="property_bathrooms">Bathrooms</label>
+    <div class="controls">
+      <input class="numeric integer optional" id="property_bathrooms" name="property[bathrooms]" step="1" type="number"/>
+    </div>
+  </div>
+  <div class="control-group integer optional">
+    <label class="integer optional control-label" for="property_bedrooms">Bedrooms</label>
+    <div class="controls">
+      <input class="numeric integer optional" id="property_bedrooms" name="property[bedrooms]" step="1" type="number"/>
+    </div>
+  </div>
+  <div class="control-group integer optional">
+    <label class="integer optional control-label" for="property_year_built">Year built</label>
+    <div class="controls">
+      <input class="numeric integer optional" id="property_year_built" name="property[year_built]" step="1" type="number"/>
+    </div>
+  </div>
+  <div class="form-actions">
+    <input class="btn-primary btn" data-loading-text="Creating..." name="commit" type="submit" value="Create Property"/> or <a href="/properties">cancel</a>
+  </div>
+</form>
+
+<br/>
+
+<table class="table table-bordered properties">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Address</th>
+      <th>Approx Sqft</th>
+      <th>Bathrooms</th>
+      <th>Bedrooms</th>
+      <th>Geo Lat</th>
+      <th>Geo Lon</th>
+      <th>List Price</th>
+      <th>Year Built</th>
+      <th>Zip Code</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
