@@ -1,0 +1,29 @@
+<div class="pagination">
+  <% pageInfo = @collection?.pageInfo or @pageInfo %>
+  <ul>
+
+    <% if pageInfo.currentPage != 1: %>
+      <li class="first">
+        <a href="/properties?page=1">« First</a>
+      </li>
+      <li class="prev">
+        <a href="/properties?page=<%= pageInfo.currentPage-1 %>">‹ Prev</a>
+      </li>
+    <% end %>
+
+    <% for page in [1..pageInfo.numPages]: %>
+      <li class="<% if page == pageInfo.currentPage: %>active<% end %> page">
+        <a href="/properties?page=<%= page %>"><%= page %></a>
+      </li>
+    <% end %>
+
+    <% if pageInfo.currentPage != pageInfo.numPages: %>
+      <li class="next_page">
+        <a href="/properties?page=<%= pageInfo.currentPage+1 %>">Next ›</a>
+      </li>
+      <li class="last next">
+        <a href="/properties?page=<%= pageInfo.numPages %>">Last »</a>
+      </li>
+    <% end %>
+  </ul>
+</div>
