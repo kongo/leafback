@@ -15,6 +15,7 @@ class Leafback.Routers.Properties extends Backbone.Router
     @collection.setPage(params["page"]) if params["page"]?
     view = new Leafback.Views.PropertiesIndex(collection: @collection)
     $("#index-container").html(view.render().el)
+    @slideTo($("#index-container"))
   
   show: (id)->
     @model    = new Leafback.Models.Property(id: id)
@@ -27,3 +28,4 @@ class Leafback.Routers.Properties extends Backbone.Router
       @model.fetch()
 
     $("#show-container").html(view.render().el)
+    @slideTo($("#show-container"))

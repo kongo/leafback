@@ -26,3 +26,12 @@ class ApplicationHelper
     location + "?" + @paramsToStr(params)
 
 _.extend(_, new ApplicationHelper)
+
+
+
+
+class RouterHelper
+  slideTo: (el)->
+    $("html:not(:animated),body:not(:animated)").animate { scrollTop: $(el).offset().top}, 200
+
+_.extend(Backbone.Router.prototype, new RouterHelper)
