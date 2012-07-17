@@ -8,7 +8,7 @@ class Leafback.Routers.Properties extends Backbone.Router
   initialize: ->
     @route /properties\/?\?(.*)/, "index", @index # properties?page=10&source=public
     @collection = new Leafback.Collections.Properties(window.data['properties'])
-    @collection.setPageInfo(window.data['properties_page_info'])
+    @collection.setPageInfo(window.data['properties_page_info']) if window.data['properties_page_info']?
 
   index: (params)->
     params = _.strToParams(params)
