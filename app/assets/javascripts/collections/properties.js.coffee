@@ -7,23 +7,28 @@ class Leafback.Collections.Properties extends Backbone.Collection
   currentPage: 1
 
   initialize: (models, options)->
-    @fetch() unless models?
     window.x = @
 
   parse: (resp, xhr)->
-    @pageInfo = {
-      currentPage:  resp["current_page"]
-      numPages:     resp["num_pages"]
-      perPage:      resp["per_page"]
-    }
+    @setPageInfo(resp)
     resp["models"]
+
+  setPageInfo: (info)->
+    _.extend(@pageInfo, {
+      currentPage:  Number(info["current_page"] or info["currentPage"]),
+      numPages:     Number(info["num_pages"]    or info["numPages"]),
+      perPage:      Number(info["per_page"]     or info["perPage"])
+    })
+    @currentPage = @pageInfo['currentPage']
 
   page: ->
     @currentPage
 
   setPage:(page) ->
-    @currentPage = page
-    @fetch()
+    return unless page > 0
+    oldPage = @currentPage
+    @currentPage = Number(page)
+    @fetch() unless oldPage == @currentPage
 
   url: ->
     params = @queryParameters()

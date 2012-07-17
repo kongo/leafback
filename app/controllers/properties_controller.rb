@@ -4,13 +4,16 @@ class PropertiesController < ApplicationController
 
   def index
     @properties = Property.page params[:page]
+    @page_info  = {
+      current_page: @properties.current_page,
+      num_pages:    @properties.num_pages,
+      per_page:     @properties.limit_value
+    }
+
     respond_to do |format|
       format.html
       format.json do
-        respond_with models:        @properties,
-                     current_page:  @properties.current_page,
-                     num_pages:     @properties.num_pages,
-                     per_page:      @properties.limit_value
+        respond_with({ models: @properties }.merge @page_info)
       end
     end
   end
