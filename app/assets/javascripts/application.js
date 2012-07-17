@@ -27,20 +27,6 @@
 
 window.data = {}
 
-var QueryParameters = (function()
-{
-    var result = {};
-
-    if (window.location.search)
-    {
-        // split up the query string and store in an associative array
-        var params = window.location.search.slice(1).split("&");
-        for (var i = 0; i < params.length; i++)
-        {
-            var tmp = params[i].split("=");
-            result[tmp[0]] = unescape(tmp[1]);
-        }
-    }
-
-    return result;
-}());
+// r = /properties[\/?\?]?(.*)/
+// ss = ["properties", "properties/", "properties?", "properties/?", "properties/177", "properties/?page=3&asd=5", "properties/?page=3&asd=5"]
+// ssa = function() { _.each(ss, function(i) { console.log(i); console.log(i.match(r)); console.log("--------------") }) }

@@ -1,12 +1,17 @@
 class Leafback.Routers.Properties extends Backbone.Router
   routes:
-    "": "index"
     "properties/:id": "show"
+    ""              : "index"
+    "properties"    : "index"
+    "properties/"   : "index"
 
   initialize: ->
+    @route /properties\/?\?(.*)/, "index", @index # properties?page=10&source=public
     @collection = new Leafback.Collections.Properties(window.data['properties'])
 
-  index: ->
+  index: (params)->
+    params = @strToParams(params)
+    @collection.setPage(params["page"]) if params["page"]?
     view = new Leafback.Views.PropertiesIndex(collection: @collection)
     $("#index-container").html(view.render().el)
   
@@ -21,3 +26,14 @@ class Leafback.Routers.Properties extends Backbone.Router
       @model.fetch()
 
     $("#show-container").html(view.render().el)
+
+  strToParams: (paramStr)->
+    return {} unless paramStr? and paramStr.length > 0
+    _.inject(
+      _.map(
+        paramStr.split("&"),
+        (i)-> i.split("=")
+      ),
+      (s, i)-> s[i[0]] = i[1] ; s;,
+      {}
+    )

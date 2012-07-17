@@ -1,6 +1,5 @@
 Leafback::Application.routes.draw do
 
-  match "properties" => redirect("")
   resources :properties
   root to: "properties#index"
 

@@ -11,7 +11,7 @@ class Leafback.Views.PropertiesIndex extends Backbone.View
     @collection.on("add", @appendProperty, this)
 
   render: ->
-    $(@el).html(@template())
+    $(@el).html(@template(collection: @collection))
     @collection.each(@appendProperty)
     this
 
