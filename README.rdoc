@@ -1,6 +1,14 @@
-== Leafback
+= Leafback
 
 An app that should utilize
 * backbone.js
 * leaflet
 * highchart
+
+== Done
+* Properties pagination
+* Show property (yet primitive)
+
+== Todo
+* Separate pagination referred functionality into a plugin
+* Leaflet map in the show property view
