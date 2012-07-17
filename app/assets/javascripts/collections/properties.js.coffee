@@ -21,25 +21,10 @@ class Leafback.Collections.Properties extends Backbone.Collection
     })
     @currentPage = @pageInfo['currentPage']
 
-  page: ->
-    @currentPage
-
   setPage:(page) ->
     return unless page > 0
-    oldPage = @currentPage
-    @currentPage = Number(page)
+    [oldPage, @currentPage] = [@currentPage, Number(page)]
     @fetch() unless oldPage == @currentPage
 
   url: ->
-    params = @queryParameters()
-    params[@pageParam] = @currentPage
-    @baseUrl + "?" + _.map(params, (v,k)-> "#{k}=#{v}").join("&")
-
-  queryParameters: ->
-    result = {};
-    if window.location.search
-        params = window.location.search.slice(1).split("&")
-        for i in [1..params.length]
-          tmp = params[i-1].split("=")
-          result[tmp[0]] = unescape(tmp[1])
-    result
+    _.locationWithParams(@baseUrl, {page: @currentPage})
