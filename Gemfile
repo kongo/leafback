@@ -6,6 +6,7 @@ gem 'jquery-rails'
 gem 'kaminari'
 gem 'backbone-on-rails'
 gem 'simple_form'
+gem 'haml_coffee_assets'
 
 group :assets do
   gem 'therubyracer', :platform => :ruby

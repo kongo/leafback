@@ -17,6 +17,7 @@
 //= require backbone
 //
 //= require leafback
+//= require hamlcoffee
 //
 //= require_tree ./helpers
 //= require_tree ../templates/
