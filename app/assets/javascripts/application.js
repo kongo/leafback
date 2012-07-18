@@ -27,7 +27,3 @@
 //= require_tree .
 
 window.data = {}
-
-// r = /properties[\/?\?]?(.*)/
-// ss = ["properties", "properties/", "properties?", "properties/?", "properties/177", "properties/?page=3&asd=5", "properties/?page=3&asd=5"]
-// ssa = function() { _.each(ss, function(i) { console.log(i); console.log(i.match(r)); console.log("--------------") }) }
