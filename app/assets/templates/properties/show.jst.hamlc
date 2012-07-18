@@ -8,9 +8,6 @@
           %th{:width => "150px"} ID
           %td= @property.get("id")
         %tr
-          %th Address
-          %td= @property.address()
-        %tr
           %th Approx Sqft
           %td= @property.get("approx_sqft")
         %tr
@@ -34,5 +31,6 @@
         %tr
           %th Zip Code
           %td= @property.get("zip_code")
-  .span7{style: "background-color: lightblue; "}
-    #map.span4
+
+  .span7
+    .map{style: "height: 316px; border: 1px solid #cccccc"}

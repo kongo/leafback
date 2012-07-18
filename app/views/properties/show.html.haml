@@ -1,25 +1,4 @@
 - content_for :javascript do
   <script type="text/javascript">window.data['property'] = #{raw @property.to_json};</script>
 
-:javascript
-  $(function() {
-    var map = new L.Map($("#map").get(0));
-    var cloudmade = new L.TileLayer('http://{s}.tile.cloudmade.com/2491da85537149cfae567760088dae82/997/256/{z}/{x}/{y}.png', {
-        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery &copy; <a href="http://cloudmade.com">CloudMade</a>',
-        maxZoom: 18
-    });
-    var place = new L.LatLng(#{@property.geo_lat}, #{@property.geo_lon}); // geographical point (longitude and latitude)
-    map.setView(place, 13).addLayer(cloudmade);
-    var markerLocation = new L.LatLng(#{@property.geo_lat}, #{@property.geo_lon});
-
-    var marker = new L.Marker(markerLocation);
-    map.addLayer(marker);
-    marker.on("click", function() {
-      this.bindPopup(
-        "<b>#{@property.address}</b><br/><br/><b>SqFt:</b>#{@property.approx_sqft}<br/>"
-          + "<b>Year:</b>#{@property.year_built}<br/><b>Price:</b>#{@property.list_price}<br/>"
-      ).openPopup()
-    });
-  })
-
 #show-container

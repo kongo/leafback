@@ -20,12 +20,19 @@ class Leafback.Routers.Properties extends Backbone.Router
   show: (id)->
     @model    = new Leafback.Models.Property(id: id)
     view      = new Leafback.Views.PropertiesShow(model: @model)
-    @model.on("change", -> view.render())
+    @model.on(
+      "change",
+      =>
+        view.render()
+        view.renderMap()
+    )
 
-    if window.data['property']?
-      @model.set(window.data['property'])
+    if (window.data['property']?) and (window.data['property'].id == @model.id)
+      @model.set(window.data['property'], {silent: true})
     else
       @model.fetch()
 
     $("#show-container").html(view.render().el)
+    view.renderMap()
+
     @slideTo($("#show-container"))

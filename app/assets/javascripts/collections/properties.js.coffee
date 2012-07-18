@@ -6,9 +6,6 @@ class Leafback.Collections.Properties extends Backbone.Collection
   pageInfo   : {}
   currentPage: 1
 
-  initialize: (models, options)->
-    window.x = @
-
   parse: (resp, xhr)->
     @setPageInfo(resp)
     resp["models"]
