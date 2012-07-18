@@ -5,4 +5,19 @@
 
 %br
 
+= javascript_include_tag "leaflet-src"
+
+:javascript
+  $(function() {
+    var map = new L.Map($("#map").get(0));
+    var cloudmade = new L.TileLayer('http://{s}.tile.cloudmade.com/2491da85537149cfae567760088dae82/997/256/{z}/{x}/{y}.png', {
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
+        maxZoom: 18
+    });
+    var london = new L.LatLng(51.505, -0.09); // geographical point (longitude and latitude)
+    map.setView(london, 13).addLayer(cloudmade);
+  })
+
+#map{style: "height: 200px" }
+
 #show-container
