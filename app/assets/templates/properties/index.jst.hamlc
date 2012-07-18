@@ -1,0 +1,18 @@
+= @pagingTemplate(pageInfo: @collection.pageInfo)
+
+%table.table.table-bordered.properties
+  %thead
+    %tr
+      %th ID
+      %th Address
+      %th Approx Sqft
+      %th Bathrooms
+      %th Bedrooms
+      %th Geo Lat
+      %th Geo Lon
+      %th List Price
+      %th Year Built
+      %th Zip Code
+  %tbody
+
+= @pagingTemplate(pageInfo: @collection.pageInfo)
