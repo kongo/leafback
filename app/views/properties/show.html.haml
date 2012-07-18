@@ -1,12 +1,6 @@
 - content_for :javascript do
   <script type="text/javascript">window.data['property'] = #{raw @property.to_json};</script>
 
-%h1= @property.address
-
-%br
-
-= javascript_include_tag "leaflet-src"
-
 :javascript
   $(function() {
     var map = new L.Map($("#map").get(0));
@@ -27,7 +21,5 @@
       ).openPopup()
     });
   })
-
-#map{style: "height: 200px" }
 
 #show-container
