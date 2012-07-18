@@ -65,5 +65,7 @@ module Leafback
     config.label_class = 'control-label'
     config.form_class = 'simple_form form-horizontal'
     config.autoload_paths += %W(#{config.root}/lib/extras)
+
+    config.hamlcoffee.escapeHtml = false
   end
 end
