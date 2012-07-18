@@ -1,0 +1,21 @@
+- pageInfo = @collection?.pageInfo or @pageInfo
+
+.pagination
+  %ul
+    - if pageInfo.currentPage != 1
+      %li.first
+        %a{ :href => "/properties?page=1" }« First
+      %li.prev
+        %a{ :href => "/properties?page=#{pageInfo.currentPage-1}" }‹ Prev
+
+    - for page in [1..pageInfo.numPages]
+      - liClass = "page"
+      - liClass = "active " + liClass if page == pageInfo.currentPage
+      %li{ :class => liClass }
+        %a{ :href => "/properties?page=#{page}" }= page
+
+    - if pageInfo.currentPage != pageInfo.numPages
+      %li.next_page
+        %a{ :href => "/properties?page=#{pageInfo.currentPage+1}" }Next ›
+      %li.last.next
+        %a{ :href => "/properties?page=#{pageInfo.numPages} %>" }Last »

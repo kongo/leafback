@@ -1,0 +1,32 @@
+%table.table.table-bordered.properties
+  %tbody
+    %tr
+      %th{:width => "150px"} ID
+      %td= @property.get("id")
+    %tr
+      %th Address
+      %td= @property.address()
+    %tr
+      %th Approx Sqft
+      %td= @property.get("approx_sqft")
+    %tr
+      %th Bathrooms
+      %td= @property.get("bathrooms")
+    %tr
+      %th Bedrooms
+      %td= @property.get("bedrooms")
+    %tr
+      %th Geo Lat
+      %td= @property.get("geo_lat")
+    %tr
+      %th Geo Lon
+      %td= @property.get("geo_lon")
+    %tr
+      %th List Price
+      %td= @property.get("list_price")
+    %tr
+      %th Year Built
+      %td= @property.get("year_built")
+    %tr
+      %th Zip Code
+      %td= @property.get("zip_code")

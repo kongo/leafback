@@ -1,0 +1,11 @@
+%td= @p.get("id")
+%td
+  %a.jlink{:href => "/properties/#{@p.get("id")}"}= @p.address()
+%td= @p.get("approx_sqft")
+%td= @p.get("bathrooms")
+%td= @p.get("bedrooms")
+%td= @p.get("geo_lat")
+%td= @p.get("geo_lon")
+%td= @p.get("list_price")
+%td= @p.get("year_built")
+%td= @p.get("zip_code")
