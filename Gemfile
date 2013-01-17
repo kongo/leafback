@@ -18,9 +18,9 @@ gem 'haml_coffee_assets'
   gem 'uglifier', '>= 1.0.3'
 # end
 
-group :development do
+# group :development do
   gem 'thin'
-end
+# end
 
 group :test, :development do
   gem 'rspec-rails'
