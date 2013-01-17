@@ -8,7 +8,7 @@ gem 'backbone-on-rails'
 gem 'simple_form'
 gem 'haml_coffee_assets'
 
-# group :assets do
+group :assets do
   gem 'therubyracer', :platform => :ruby
   gem 'less-rails'
   gem 'sass-rails',   '~> 3.2.3'
@@ -16,7 +16,7 @@ gem 'haml_coffee_assets'
   gem 'haml-rails'
   gem "twitter-bootstrap-rails"
   gem 'uglifier', '>= 1.0.3'
-# end
+end
 
 # group :development do
   gem 'thin'
