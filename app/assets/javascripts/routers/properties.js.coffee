@@ -33,6 +33,5 @@ class Leafback.Routers.Properties extends Backbone.Router
       @model.fetch()
 
     $("#show-container").html(view.render().el)
-    view.renderMap()
 
     @slideTo($("#show-container"))

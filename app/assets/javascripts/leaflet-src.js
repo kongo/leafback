@@ -3,6 +3,7 @@
  Leaflet is a modern open-source JavaScript library for interactive maps.
  http://leaflet.cloudmade.com
 */
+L_ROOT_URL = '/assets/';
 
 (function (root) {
 	root.L = {
